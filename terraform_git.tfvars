@@ -1,0 +1,8 @@
+auth_token = "your metal API key in Metal portal's profile""
+equinix_client_id     = "your Equinx clientID in your fabric project"
+equinix_client_secret = "your Equinix client secret in your fabric project"
+metal_project_id = "your metal project ID from metal's portal"
+metro1      = "da"
+metro2      = "dc"
+plan        = "m3.small.x86"
+operating_system = "ubuntu_22_04"
